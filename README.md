@@ -12,7 +12,7 @@ This project implements quadtree-based compression and decompression for 256×25
 - `ImgQuadTreeDisplayer.java`  
   Provided utility used to display the reconstructed image from the quadtree.
 
-- `Report.pdf`  
+- `Project_report.pdf`  
   Project report describing the design, algorithms, testing, and challenges.
 
 ## Key Concepts
