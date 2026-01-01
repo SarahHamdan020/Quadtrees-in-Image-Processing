@@ -1,6 +1,3 @@
-# Quadtrees-in-Image-Processing
-Java implementation of quadtree-based compression and decompression for 256×256 grayscale images using recursive data structures.
-
 # Quadtree Image Compression (ICS 202)
 
 This project implements quadtree-based compression and decompression for 256×256 grayscale images as part of the ICS 202 (Data Structures & Algorithms) course.
@@ -24,6 +21,3 @@ This project implements quadtree-based compression and decompression for 256×25
 - Tree traversal (preorder)
 - Divide-and-conquer
 - File I/O
-
-## Notes
-This project was completed as an individual academic assignment.
